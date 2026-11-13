@@ -1,0 +1,15 @@
+# VibeLab submission .gitignore (build / intermediate outputs)
+/local.properties
+/build/
+/.gradle/
+/.cxx/
+/launcher/build/
+/launcher/.gradle/
+/launcher/.cxx/
+/unityLibrary/build/
+/unityLibrary/.gradle/
+/unityLibrary/.cxx/
+/unityLibrary/symbols/
+/unityLibrary/xrmanifest.androidlib/build/
+/unityLibrary/xrmanifest.androidlib/.gradle/
+*.apk

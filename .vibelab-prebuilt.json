@@ -1,0 +1,52 @@
+{
+    "schema":  1,
+    "processor_revision":  "il2cpp-prebuild-v6",
+    "il2cpp_so_sha256":  "583E4D85AD12B1C62014C70C854B862B9B66F35377A7E786D8D1DFAAEFE129CA",
+    "global_metadata_sha256":  "CC8E343AE558B123C01E71E19951810B40B0B17518ACF28BD20F6E2B7561CAFF",
+    "unity_version":  "6000.0.77f1",
+    "unity_template_version":  "20",
+    "ndk_version":  "27.2.12479018",
+    "abi":  [
+                "arm64-v8a"
+            ],
+    "target_sdk":  35,
+    "native_inventory":  [
+                             {
+                                 "name":  "libPicoAmbisonicDecoder.so",
+                                 "sha256":  "3CAF065722F5FBA6FE1E3D760DB4C1B2F8A1E2F1AB40428585EF2E637C4921F7"
+                             },
+                             {
+                                 "name":  "libPicoAudioRouter.so",
+                                 "sha256":  "42D9BAA4859D73D6CE48F206ABBC039D563137A8174C0C15042D007317262E2B"
+                             },
+                             {
+                                 "name":  "libPicoSpatializer.so",
+                                 "sha256":  "F983B71A88DDD557C449ACDCFF32BE8D77A6374B520FF78C7015ACF6DB0C8792"
+                             },
+                             {
+                                 "name":  "lib_burst_generated.so",
+                                 "sha256":  "FDF6FB3227B1C9D0FE41BC93A4DC61F2F3E0EEC9E4448F4FA3503981730B1064"
+                             },
+                             {
+                                 "name":  "libil2cpp.so",
+                                 "sha256":  "583E4D85AD12B1C62014C70C854B862B9B66F35377A7E786D8D1DFAAEFE129CA"
+                             },
+                             {
+                                 "name":  "libmain.so",
+                                 "sha256":  "952E8A0E98AE13DAB4BFE18A7F33D61AD339C59EED6402FB223D5BBC4723BF43"
+                             },
+                             {
+                                 "name":  "libpxrplatformloader.so",
+                                 "sha256":  "2CE0BFB1F538A81D3528F2FDCEBCE65B0B6D42BFC865F31F6C15F10C1BC0E977"
+                             },
+                             {
+                                 "name":  "librfutils_andr.so",
+                                 "sha256":  "1BDA7166B9719ED57C712FC09D49DBEFFB0F8F41C780E487A8B272CC6F44AED7"
+                             },
+                             {
+                                 "name":  "libunity.so",
+                                 "sha256":  "9968E8A789840293F1A3DC71F34F798B4B04798D16ECAB84CB222B5E715BC641"
+                             }
+                         ],
+    "generated_at":  "2026-11-13T12:36:03+08:00"
+}
