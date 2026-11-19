@@ -1,7 +1,7 @@
 {
     "schema":  1,
     "processor_revision":  "il2cpp-prebuild-v6",
-    "generated_at":  "2026-11-16T19:56:52+08:00",
+    "generated_at":  "2026-11-19T20:59:29+08:00",
     "unity_version":  "6000.0.77f1",
     "unity_template_version":  "20",
     "backend":  "IL2CPP",
@@ -10,13 +10,13 @@
     "target_sdk":  35,
     "min_sdk":  29,
     "application_id":  "com.Aoga.ViolentMoving",
-    "version_code":  2,
-    "version_name":  "0.1.1",
+    "version_code":  3,
+    "version_name":  "0.1.2",
     "ndk_version":  "27.2.12479018",
-    "il2cpp_so_sha256":  "D4B9CF7D888B9EFE0D829B5B1E64207C7C3D99FB80FBA0DB2CF82D085134593B",
-    "il2cpp_so_bytes":  70743872,
-    "global_metadata_sha256":  "ED66EA88A2AFC4E8CE6BCAF3001210D5152CF4DB2C8CD94AB50032AECD229ACA",
-    "global_metadata_bytes":  11105752,
+    "il2cpp_so_sha256":  "1DB915CE92C0AB1B9B2D69FC6EB6C9F88A56E41A934B62E457B01EE7917A689C",
+    "il2cpp_so_bytes":  70749424,
+    "global_metadata_sha256":  "ED2538D0E5B098A9D89EEF06AF3F4AF6183B7121E794EC340B6AF290D5197835",
+    "global_metadata_bytes":  11108984,
     "build_il2cpp_disabled":  true,
     "native_inventory":  [
                              {
@@ -45,8 +45,8 @@
                              },
                              {
                                  "name":  "libil2cpp.so",
-                                 "bytes":  70743872,
-                                 "sha256":  "D4B9CF7D888B9EFE0D829B5B1E64207C7C3D99FB80FBA0DB2CF82D085134593B",
+                                 "bytes":  70749424,
+                                 "sha256":  "1DB915CE92C0AB1B9B2D69FC6EB6C9F88A56E41A934B62E457B01EE7917A689C",
                                  "source":  "unity-il2cpp"
                              },
                              {
